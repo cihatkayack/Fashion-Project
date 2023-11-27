@@ -20,7 +20,7 @@ This study emphasizes the significance of an algorithm capable of identifying an
 Large datasets from sources like Kaggle and GitHub were initially examined. The study focuses on a dataset containing high-resolution images and comprehensive category labels of clothing products. To simplify training, the dataset's 143 main classes were reduced to 6 more comprehensive master categories.
 
 ## 3. Working Process
-The working process involved data discovery, preparation, analysis, and visualization. The selected clothing types were pre-processed to create a suitable dataset for training the chosen CNN model, ResNet152. The model was optimized, and its performance was evaluated.
+The working process involved data discovery, preparation, analysis, and visualization. The selected clothing types were pre-processed to create a suitable dataset for training the chosen CNN model. The model was optimized, and its performance was evaluated.
 
 ### 3.1 Data Discovery and Preparation
 A Kaggle dataset named 'fashion-product-images-dataset' was used, containing information about clothing products, including categories, colors, genders, and other attributes.
