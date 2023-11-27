@@ -5,7 +5,6 @@
 - Hüseyin Onur Taştan
 - Erdem Akdağlı
 
-## Affiliation
 Izmir Democracy University, Electrical Electronics Engineering Department
 
 ## Abstract
